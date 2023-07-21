@@ -1,0 +1,1 @@
+Primeira versão do programa. Usado como protótipo de um controle de estoque.

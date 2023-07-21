@@ -1,0 +1,64 @@
+C:\Users\Pichau\source\repos\ControleEstoque\bin\Debug\net6.0\ControleEstoque.exe
+C:\Users\Pichau\source\repos\ControleEstoque\bin\Debug\net6.0\ControleEstoque.deps.json
+C:\Users\Pichau\source\repos\ControleEstoque\bin\Debug\net6.0\ControleEstoque.runtimeconfig.json
+C:\Users\Pichau\source\repos\ControleEstoque\bin\Debug\net6.0\ControleEstoque.dll
+C:\Users\Pichau\source\repos\ControleEstoque\bin\Debug\net6.0\ControleEstoque.pdb
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.dll
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\refint\ControleEstoque.dll
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.pdb
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\ControleEstoque\obj\Debug\net6.0\ref\ControleEstoque.dll
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\bin\Debug\net6.0\ControleEstoque.exe
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\bin\Debug\net6.0\ControleEstoque.deps.json
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\bin\Debug\net6.0\ControleEstoque.runtimeconfig.json
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\bin\Debug\net6.0\ControleEstoque.dll
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\bin\Debug\net6.0\ControleEstoque.pdb
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.dll
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\refint\ControleEstoque.dll
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.pdb
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\PTI - ALGII\ControleEstoque\obj\Debug\net6.0\ref\ControleEstoque.dll
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\bin\Debug\net6.0\ControleEstoque.exe
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\bin\Debug\net6.0\ControleEstoque.deps.json
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\bin\Debug\net6.0\ControleEstoque.runtimeconfig.json
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\bin\Debug\net6.0\ControleEstoque.dll
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\bin\Debug\net6.0\ControleEstoque.pdb
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.dll
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\refint\ControleEstoque.dll
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.pdb
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ref\ControleEstoque.dll
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pichau\Desktop\SENAC\Disciplinas\Algoritmos e Programação II\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CopyComplete
+C:\ProjetosDev\ControleEstoque\bin\Debug\net6.0\ControleEstoque.exe
+C:\ProjetosDev\ControleEstoque\bin\Debug\net6.0\ControleEstoque.deps.json
+C:\ProjetosDev\ControleEstoque\bin\Debug\net6.0\ControleEstoque.runtimeconfig.json
+C:\ProjetosDev\ControleEstoque\bin\Debug\net6.0\ControleEstoque.dll
+C:\ProjetosDev\ControleEstoque\bin\Debug\net6.0\ControleEstoque.pdb
+C:\ProjetosDev\ControleEstoque\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.AssemblyReference.cache
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.AssemblyInfo.cs
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.csproj.CopyComplete
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.dll
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\refint\ControleEstoque.dll
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.pdb
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ControleEstoque.genruntimeconfig.cache
+C:\ProjetosDev\ControleEstoque\obj\Debug\net6.0\ref\ControleEstoque.dll
